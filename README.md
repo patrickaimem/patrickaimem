@@ -1,5 +1,3 @@
-## AI Engineer · Data Scientist · Data Engineer
-
 I design and build data-driven systems combining **Artificial Intelligence, Machine Learning, Data Engineering, Backend APIs and MLOps**.
 
 My background combines a **Master’s degree in Software Engineering & Information Systems** with a current **MSc in Big Data & Artificial Intelligence**. I am interested in projects where data, AI models, software engineering and cloud infrastructure meet to create reliable, scalable and production-oriented solutions.
